@@ -1,0 +1,500 @@
+#nvh{
+  display: inline-block; 
+  margin-right:35rem;
+  font-size:29px ;
+  padding: 10px ;
+
+}
+a{
+ 
+    font-size:20px ;
+    margin: 10px;
+    text-decoration:none;
+    color: white;
+
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    
+    text-transform: capitalize;
+     text-shadow:rgb(255, 123, 0) 1px 0 7px;
+     -webkit-text-stroke-color:rgb(255, 123, 0) ;
+     -webkit-text-stroke-width: 0.5px ;
+     
+}
+button{
+    background-color: green;
+    color: antiquewhite;
+    border-radius: 5px;
+    font-size: 30px;
+    height:60px;
+    width:240px ;
+    margin: 10px;
+    padding: 5px;
+    padding-left:15px ;
+    padding-right:15px ;
+}
+#thh{
+text-align: left;
+    color:rgb(255, 68, 0) ;
+    display:block ;
+    font-size: 65px;
+   
+}
+#th{
+ 
+    text-align: left;
+    font-size: 65px;
+    display:block ;
+    
+     text-shadow:rgb(255, 123, 0) 1px 0 7px;
+     -webkit-text-stroke-color:rgb(255, 123, 0) ;
+     -webkit-text-stroke-width: 0.5px ;
+}
+#nawfyb{
+    background-color: white ;
+    font-size:20px ;
+    border: 5px solid rgb(255, 123, 0) ;
+    padding: 5px;
+    width: 650px;
+   height: 415px;
+   margin-right: 0%;
+   margin-left: 40px;
+  margin-top: 0%;
+}
+
+
+/*#ouser{
+    
+    display: contents ;
+    justify-content: space-around;
+
+   
+}*/
+
+footer{
+    background-color:rgba(29, 19, 19, 0.681);
+    display:inline-block;
+    color: white;
+    height: 30px;
+    width:910px;
+    padding-left:300px ;
+    padding-right: 300px ;
+    left: 0px;
+
+}
+#foot{
+    position:absolute ;
+    top: 5327px;
+}
+.bl{
+    height: 640px;
+    width: 1450px;
+    background-color: rgb(232, 211, 24);
+     margin-right:5px; 
+     margin-left: 5px;
+     padding: 20px ;
+     border: 3px solid black ;
+}
+.black{
+height:40px ;
+width: 1500px;
+left:0px;
+ background-color: black;
+ margin: 0%;
+
+}
+.orange{
+    height:40px ;
+width: 1500px;
+background-color:rgb(220, 80, 5) ;
+margin:0%;
+
+}
+#h,#c{
+ 
+ border-radius:50%;
+}
+
+.imgrow{
+    height: 120px;    
+}
+#cu{
+    position: absolute;
+    top:4480px ;
+    left: 0px;
+    display: block;
+    justify-content: space-around;
+}
+#intro{
+    float: right;
+    width:400px ;
+    border-radius: 15px ;
+    
+}
+#topbar{
+    background-color:rgba(29, 19, 19, 0.681);
+    display:inline-block;
+    height: 20px;
+    border: 5px solid rgba(29, 19, 19, 0.681) ;
+    width:99%;
+
+}
+#navbar{
+    background-color: rgb(220, 80, 5);
+    display:block;
+    height: 60px;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    
+    /*border: 5px solid white ;*/
+}
+#d1{
+    font-size: 25px;
+
+}
+#abu{
+    text-align: justify;
+    font-size: 40px ;
+    
+  
+}
+#last{
+    background-color: rgb(4, 115, 73);
+    display: inline-flex;
+    justify-content: space-around;
+    width: 1500px;
+    left: 0px;
+    position: absolute;
+    top: 5207px;
+}
+#cuh{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+#hypertxt{
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+#chath{
+text-transform: uppercase;
+font-weight: bolder;
+text-decoration: underline;
+font-size: 25px;
+display: flex;
+
+position: absolute;
+    top: 400px;
+   
+    text-align: center;
+    left: 300px ;
+}
+#chatb{
+    font-size: 30px;
+}
+#emailh{
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-size: 30px;
+    position: absolute;
+    top: 400px;
+   
+    text-align: center;
+    right: 200px ;
+   
+    
+}
+#emailb{
+    font-size: 30px;
+}
+#contact{
+display: inline;
+
+justify-content: space-around;
+}
+.chat{
+float: inline-start;
+position: absolute;
+top: 450px;
+text-align: center;
+
+right:800px ;
+
+}
+.mail{
+float: inline-end;
+text-align: center;
+
+position:absolute;
+top: 450px;
+left: 800px ;
+
+
+    
+
+}
+.cimg{
+position: absolute;
+top:225px;
+left:300px;
+
+}
+.eimg{
+    position: absolute;
+    top:225px;
+    right:350px;}
+#need{
+    display: flex;
+    flex-wrap: nowrap;
+    float: left;
+    border: 5px solid rgb(255, 123, 0) ;
+    height:400px ;
+    position: absolute;
+    left:740px ;
+    top: 978px;
+    margin-right: 0%;
+    margin-left: 0%;
+    margin-top: 0%;
+
+}
+#ouser {
+    width: 80%;
+    margin: auto;
+   display: inline;
+    text-transform: uppercase ;
+    font-weight: bolder;
+    text-align: center;
+}
+
+/*#ouser img {
+    width: 48%; /* Adjust the width as needed */
+   /* margin-bottom: 10px;  Add some spacing between the images */
+/*}*/
+.ben{
+     background-color: rgb(232, 211, 24);
+border: 5px solid rgb(255, 123, 0) ;
+width: 500px;
+height: 220px;
+display: flex;
+padding: 10px;
+
+}
+#ben1{
+position: absolute;
+
+}
+#ben2{
+position: absolute;
+
+right: 30px  ;
+
+}
+#ben3{
+position: absolute; 
+top:2000px ;
+ 
+}
+#ben4{
+position: absolute; 
+top:2000px  ;
+
+right: 30px  ;
+ 
+}
+.benh{
+    word-wrap: normal;
+    font-size:20px ;
+    color: rgba(9, 9, 141, 0.919);
+    text-transform: capitalize;
+    margin-top: 120px;
+    position: absolute;
+    left: 0;
+   top: 1px;
+    width: 100%;
+    height: 2px;
+margin-left: 20px;
+}
+.ben img{
+margin-right: 100px;
+height: 100px;
+}
+.benb{
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    align-self: start;
+    position: absolute;
+    left: 0;
+   top: 150px;
+    width: 100%;
+    height: 2px;
+    margin-left: 20px;
+}
+/*.ben::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 1px;
+    width: 100%;
+    height: 2px;
+}*/
+.os1{
+position: absolute;
+ top:1570px;  
+
+}
+.ost1{
+    position: absolute;
+     top:1820px;  
+     left:100px ; 
+}
+.os2{
+    position: absolute;
+    top:1570px;  
+    right: 50px;  
+}
+.ost2{
+    display: inline;
+    position: absolute;
+    top:1820px; 
+    right:50px ; 
+    
+    }
+.os3{
+    position: absolute;
+    top:1720px;  
+
+}
+.ost3{
+    position: absolute;
+     top:1600px;  
+    
+    }
+.os4{
+    position: absolute;
+    top:1720px;
+    right: 50px;    
+}
+.ost4{
+    position: absolute;
+     top:1920px;  
+    right: 0px;
+    }
+.os1 img,.os2 img,.os3 img,.os4 img{
+    height: 250px;
+
+}
+.get{
+    height:490px;
+    align-items: stretch;
+    display: flex;
+    text-wrap: wrap;
+}
+h3{
+    text-align: center;
+    margin-block-end: 0.5em;
+}
+#hrabu{
+    position:absolute;
+    top:3710px;
+    left: 0px;
+}
+#au{
+    position: absolute;
+    top:3752px;
+    left: 0px;
+}
+#chr{
+    position: absolute;
+    top:4440px;
+    left: 0px;
+}
+#irhr{
+    position: absolute;
+    top:5165px;   
+}
+#s1,#s2,#s3,#s4,#sh1,#sh2,#sh3,#sh4{
+   
+    text-shadow:rgb(255, 123, 0) 1px 0 7px;
+    -webkit-text-stroke-color:rgb(255, 123, 0) ;
+    -webkit-text-stroke-width: 0.5px ;
+    position: absolute;
+    margin: 1px;
+}
+#s1{
+    font-size: 30px;
+    color:blue ;
+}
+#s2{
+    font-size: 30px;
+    color:blue ;
+}
+#s3{
+    font-size: 30px;
+    color:blue ;
+}
+#s4{
+    font-size: 30px;
+    color:blue ;
+}
+#sh1{
+    font-size: 30px;
+    color:blue ;
+    text-transform: capitalize;
+}
+#sh2{
+    font-size: 30px;
+    color:blue ;
+    text-transform: capitalize;
+}
+#sh3{
+    font-size: 30px;
+    color:blue ;
+    text-transform: capitalize;
+}
+#sh4{
+    font-size: 30px;
+    text-transform: capitalize;
+    color:blue ;
+}
+#sb1{
+    font-size: 20px;
+    margin: 12px;
+}
+#sb2{
+    font-size: 20px;
+    margin: 12px;
+}
+#sb3{
+    font-size: 20px;
+    margin: 12px;
+}
+#sb4{
+    font-size: 20px;
+    margin: 12px;
+
+}
+#getb{
+    display: grid;
+ align-items: stretch; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 5px;
+}
+#getimg {
+    width:120px;
+    height:120px;
+  }
+  
+  #gettext {
+    font-size: 70px;
+  }
+  #getcol {
+    max-width: 100%;
+    max-height:100%;
+  }
+
